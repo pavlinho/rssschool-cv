@@ -1,10 +1,10 @@
 # Pavlenkovich Hleb #
 
-** Contacts **
+**Contacts**
 
 ***Phone number: +375(29) 670-38-10***
 
-*Mail: hleb.paulenkovich@outlook.com
+*Mail: hleb.paulenkovich@outlook.com*
 
 ## Wishes, goals ##
 
