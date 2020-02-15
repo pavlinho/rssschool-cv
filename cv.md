@@ -3,11 +3,12 @@
 ** Contacts **
 
 ***Phone number: +375(29) 670-38-10***
-*Mail: hleb.paulenkovich@outlook.com*
+
+*Mail: hleb.paulenkovich@outlook.com
 
 ## Wishes, goals ##
 
-###I want to become a professional web-designer and have my own company.###
+ I want to become a professional web-designer and have my own company.
 
 ## My skills ##
 
@@ -34,7 +35,7 @@
 
 ## Experience and Education ##
 
-*** I'm studying at the BSU. 3 course.***
+ *I'm studying at the BSU. 3 course.*
 
 * Passed some courses in BELHARD academy, especially (Modern Front-end development)
 
