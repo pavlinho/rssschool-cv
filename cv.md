@@ -32,7 +32,7 @@
 
 ## Experience and Education ##
 
- I'm studying at the BSU. 3 course.
+*** I'm studying at the BSU. 3 course.***
 
 * Passed some courses in BELHARD academy, especially (Modern Front-end development)
 
