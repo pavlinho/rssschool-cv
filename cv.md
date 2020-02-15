@@ -2,7 +2,7 @@
 
 ** Contacts **
 
-*Phone number: +375(29) 670-38-10*
+***Phone number: +375(29) 670-38-10***
 *Mail: hleb.paulenkovich@outlook.com*
 
 ## Wishes, goals ##
@@ -28,6 +28,8 @@
 * Basics of C
 
 * Assembler basics
+
+* Unity basics
 
 
 ## Experience and Education ##
