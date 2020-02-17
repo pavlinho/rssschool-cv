@@ -1,0 +1,26 @@
+body {
+     background-color: indianred;
+}
+.resume {
+    margin: 5% auto;
+    max-width:1024px; 
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+.img {
+    
+    margin:auto;    
+    width: 200px;
+    height: 300px;
+    border-radius: 4px;
+    float: right;
+}
+
+h1 {
+    margin-right: 0px;
+    text-align: center;
+}
+
+li{
+    font-style: italic;
+}
